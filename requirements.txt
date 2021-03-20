@@ -6,7 +6,7 @@ ebaysdk==2.1.5
 feedparser==5.2.1
 greenlet==0.4.15
 html2text==2018.1.9
-Jinja2==2.10.1
+Jinja2==2.11.3
 libsass==0.17.0
 Mako==1.0.7
 MarkupSafe==1.1.0
